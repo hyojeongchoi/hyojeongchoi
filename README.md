@@ -1,5 +1,4 @@
-## 새로운 도전을 즐기고,
-배움을 통해 성장하는 것을 좋아하는 최효정입니다.
+## 새로운 도전을 즐기고, 배움을 통해 성장하는 것을 좋아하는 최효정입니다.
 [![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojeongchoi)](https://github.com/hyojeongchoi/github-readme-stats)
 
 <!--
